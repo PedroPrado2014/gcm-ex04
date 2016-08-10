@@ -6,4 +6,4 @@ Autor Pedro
 
 Teste gcm 5 
 
-exercicio 
+exercicio  
